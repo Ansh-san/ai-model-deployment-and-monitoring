@@ -1,6 +1,6 @@
 # AirCast India — Week 5: Deployment & Monitoring
 
-**Author:** Ansh Parashar | **Internship Week 5 Task**
+**Author:** Ansh Parashar | **Week 5 Task**
 
 ---
 
